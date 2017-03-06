@@ -1,6 +1,6 @@
 # kNOwSQL
 
-In NOSQL we *** No reduce*** , which translates into ***No Normalization***.
+In NOSQL we *** No Reduce*** , which translates into ***No Normalization***.
 
 `nosql`
 
@@ -8,6 +8,10 @@ In NOSQL we *** No reduce*** , which translates into ***No Normalization***.
 ![evolution](https://highlyscalable.files.wordpress.com/2012/02/overview2.png)
 
 #### Key-Value stores
+
+##### LevelDB
+##### RocksDB
+![rockdbarchitecture]()
 #### BigTable-style 
 #### Document db
 
