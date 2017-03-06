@@ -1,9 +1,8 @@
 # kNOwSQL
 
-In NOSQL we *** No Reduce*** , which translates into ***No Normalization***.
+In NOSQL we *** No Reduce*** , which translates into ***No Normalization***, only a compromise on the data modelling.
 
 `nosql`
-
 
 ![evolution](https://highlyscalable.files.wordpress.com/2012/02/overview2.png)
 
