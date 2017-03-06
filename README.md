@@ -26,3 +26,5 @@ In NOSQL we *** No reduce*** , which translates into ***No Normalization***.
 8. _http://www.informit.com/articles/article.aspx?p=2339664_
 9. _https://www.thoughtworks.com/insights/blog/nosql-databases-overview_
 10. _http://www.ebaytechblog.com/2014/10/10/nosql-data-modeling/_
+11. _https://www.infoq.com/articles/unified-data-modeling-for-relational-and-nosql-databases_
+12. 
