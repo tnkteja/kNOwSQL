@@ -1,6 +1,6 @@
 # kNOwSQL
 
-In No SQL we ***don't reduce*** , which translates into ***Denormalization***.
+In NOSQL we *** No reduce*** , which translates into ***No Normalization***.
 
 `nosql`
 
@@ -23,3 +23,6 @@ In No SQL we ***don't reduce*** , which translates into ***Denormalization***.
 5. _https://dzone.com/articles/our-experience-domain-events_
 6. _https://www.slideshare.net/fehguy/data-modeling-for-nosql_
 7. _https://www.kidscodecs.com/database-design/_
+8. _http://www.informit.com/articles/article.aspx?p=2339664_
+9. _https://www.thoughtworks.com/insights/blog/nosql-databases-overview_
+10. _http://www.ebaytechblog.com/2014/10/10/nosql-data-modeling/_
