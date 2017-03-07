@@ -11,11 +11,16 @@ In NOSQL we *** No Reduce*** , which translates into ***No Normalization***, onl
 ##### LevelDB
 ##### RocksDB
 ![rockdbarchitecture]()
+
+After getting the rockdb [build](https://github.com/facebook/rocksdb/blob/master/INSTALL.md) (yeah!! sucks! right!!) and up.    
 #### BigTable-style 
 #### Document db
 
 ### Domain-Driven Design
 ***immutability of Value Objects*** 
+
+### Modelling 
+Access patterns - 
 ## Related Work
 
 ## References
