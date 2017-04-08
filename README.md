@@ -5,15 +5,20 @@ In NOSQL we *** No Reduce*** , which translates into ***No Normalization***, onl
 `nosql`
 
 ## First lets SQL
-It is to create this reduced and elemental form for requirements generated data model. The data model is subject to several techniques.
-They are as follows and by the way in the quest for these normalisations we derive primary keys, define secondary keys, composite keys, and also super keys, ohh just not that we also create relationships and end up with a Physical ERD.
-### 1NF
-### 2NF
-### 3NF
-### And BCNF
-### We also have 4NF and 5NF
-#### 4NF
-#### 5NF
+It is to create this reduced and elemental form from requirements-generated-data model for the Relational Database Management Systems - a Management system with a store full of tables to hold data of "same type", and relationships between them. The requirements generated data model is subject to several techniques. They are as follows and by the way in the quest for these normalisations we derive primary keys, define secondary keys, composite keys, and also super keys, ohh just not that we also create relationships and end up with a Physical ERD. And then newly create a beautiful Logical ERD diagram, ***zzz Its heaven!!***
+### 1NF - izing the type into table
+requirements generted data model will give crude types of representations for the data. This data is atomicized. *Yay* a ***primary key*** is picked.
+#### Atomization
+#### Primary key picking
+*
+*
+*
+### 2NF - izing the 1NFized table
+### 3NF - izing the 2NFized table
+### And BCNF - izing 
+### We also have 4NF and 5NF - *if you have time*
+#### 4NF - izing the 3NFized table
+#### 5NF - izing the 4NFized table
 
 `note: I want to complete these sections but the tutorial videos which put on this were lost.` :sad:
 ![evolution](https://highlyscalable.files.wordpress.com/2012/02/overview2.png)
