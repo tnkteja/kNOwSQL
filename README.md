@@ -1,11 +1,15 @@
 # kNOwSQL
 
+(firstthingsfirst)[]
+
 In NOSQL we *** No Reduce*** , which translates into ***No Normalization***, only a compromise on the data modelling.
 
 `nosql`
 
 ## First lets SQL
-It is to create this reduced and elemental form from requirements-generated-data model for the Relational Database Management Systems - a Management system with a store full of tables to hold data of "same type", and relationships between them. The requirements generated data model is subject to several techniques. They are as follows and by the way in the quest for these normalisations we derive primary keys, define secondary keys, composite keys, and also super keys, ohh just not that we also create relationships and end up with a Physical ERD. And then newly create a beautiful Logical ERD diagram, ***zzz Its heaven!!***
+It is to create this reduced and elemental form from requirements-generated-data model for the Relational Database Management Systems - a Management system with a store full of tables to hold data of "same type", and relationships between them. The requirements generated data model is subject to several techniques. They are as follows and by the way in the quest for these normalisations we derive primary keys, define secondary keys, composite keys, and also super keys, ohh just not that we also create relationships and end up with a Physical ERD. ***zzz Its heaven!!***
+
+A Logical Entity Relationship Diagram is a 
 ### 1NF - izing the type into table
 requirements generted data model will give crude types of representations for the data. This data is atomicized. *Yay* a ***primary key*** is picked.
 #### Atomization
