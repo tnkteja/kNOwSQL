@@ -4,6 +4,17 @@ In NOSQL we *** No Reduce*** , which translates into ***No Normalization***, onl
 
 `nosql`
 
+## First lets SQL
+It is to create this reduced and elemental form for requirements generated data model. The data model is subject to several techniques.
+They are 
+### 1NF
+### 2NF
+### 3NF
+### And BCNF
+### We also have 4NF and 5NF
+#### 4NF
+#### 5NF
+`note: I want to complete these sections but the tutorial videos which put on this were lost.` :sad:
 ![evolution](https://highlyscalable.files.wordpress.com/2012/02/overview2.png)
 
 #### Key-Value stores
