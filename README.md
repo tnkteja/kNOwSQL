@@ -6,7 +6,7 @@ In NOSQL we *** No Reduce*** , which translates into ***No Normalization***, onl
 
 ## First lets SQL
 It is to create this reduced and elemental form for requirements generated data model. The data model is subject to several techniques.
-They are 
+They are as follows and by the way in the quest for these normalisations we derive primary keys, define secondary keys, composite keys, and also super keys, ohh just not that we also create relationships and end up with a Physical ERD.
 ### 1NF
 ### 2NF
 ### 3NF
@@ -14,6 +14,7 @@ They are
 ### We also have 4NF and 5NF
 #### 4NF
 #### 5NF
+
 `note: I want to complete these sections but the tutorial videos which put on this were lost.` :sad:
 ![evolution](https://highlyscalable.files.wordpress.com/2012/02/overview2.png)
 
