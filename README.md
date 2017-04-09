@@ -13,9 +13,11 @@ A Logical Entity Relationship Diagram is a
 ### 1NF - izing the type into table
 requirements generted data model will give crude types of representations for the data. This data is atomicized. *Yay* a ***primary key*** is picked.
 #### Atomization
+the individual attribute containers should be holding an further unreducable value ... *** yep literally an atom like value***. Just to try an attempt to give a motivational example not to unfamiliar to when looking at the any requirements generated datamodel.
+
 #### Primary key picking
-*
-*
+* Probably doess not contain sensitive data
+* 
 *
 ### 2NF - izing the 1NFized table
 ### 3NF - izing the 2NFized table
