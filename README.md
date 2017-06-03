@@ -38,7 +38,12 @@ Used in ***Google Chrome***.
 
 After getting the rockdb [build](https://github.com/facebook/rocksdb/blob/master/INSTALL.md) + [static_lib](https://github.com/facebook/rocksdb/tree/master/examples) made  (yeah!! sucks! right!!) and up.    
 #### BigTable-style 
+
+##### Deviation Alert: Apache Cassandra
+not quite a BigTablish, but kind ragged-table-key-value store
+
 #### Document db
+
 
 ### Domain-Driven Design
 ***immutability of Value Objects*** 
@@ -59,4 +64,4 @@ Access patterns -
 9. _https://www.thoughtworks.com/insights/blog/nosql-databases-overview_
 10. _http://www.ebaytechblog.com/2014/10/10/nosql-data-modeling/_
 11. _https://www.infoq.com/articles/unified-data-modeling-for-relational-and-nosql-databases_
-12. 
+12. _https://stackoverflow.com/questions/1104624/what-is-the-difference-between-cassandra-and-couchdb?answertab=votes#tab-top_
