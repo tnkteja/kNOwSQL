@@ -44,6 +44,8 @@ not quite a BigTablish, but kind ragged-table-key-value store
 
 #### Document db
 
+##### Apache Couchdb
+
 
 ### Domain-Driven Design
 ***immutability of Value Objects*** 
