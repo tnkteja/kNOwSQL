@@ -45,7 +45,11 @@ not quite a BigTablish, but kind ragged-table-key-value store
 #### Document db
 
 ##### Apache Couchdb
-
+##### MongoDB
+##### Amazon DynamoDB
+##### Couchbase
+##### CouchDB
+##### Microsoft Azure Cosmos DB
 
 ### Domain-Driven Design
 ***immutability of Value Objects*** 
