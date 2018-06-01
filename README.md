@@ -29,6 +29,8 @@ the individual attribute containers should be holding an further unreducable val
 `note: I want to complete these sections but the tutorial videos which put on this were lost.` :sad:
 ![evolution](https://highlyscalable.files.wordpress.com/2012/02/overview2.png)
 
+![nosql triangle](https://blog.scottlogic.com/dgorst/assets/mongodb-vs-couchdb/nosql-triangle.png)
+
 #### Key-Value stores
 
 ##### LevelDB
