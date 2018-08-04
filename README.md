@@ -44,15 +44,31 @@ After getting the rockdb [build](https://github.com/facebook/rocksdb/blob/master
 ##### Deviation Alert: Apache Cassandra
 not quite a BigTablish, but kind ragged-table-key-value store
 
+##### redis
+##### Oracle NOSql
+##### riak
+##### Amazon DynamoDB
+
 #### Document db
 
 ##### Apache Couchdb
 ##### MongoDB
+##### MarkLogic
 ##### Amazon DynamoDB
 ##### Couchbase
 ##### CouchDB
 ##### Microsoft Azure Cosmos DB
 
+#### Column Store Databases
+##### Cassandra
+##### druid
+##### Hq
+##### accumulo
+
+
+#### Graph DB
+##### Neo4j
+##### OrientDB
 ### Domain-Driven Design
 ***immutability of Value Objects*** 
 
