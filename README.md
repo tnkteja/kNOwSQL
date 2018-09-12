@@ -18,8 +18,9 @@ the individual attribute containers should be holding an further unreducable val
 #### Primary key picking
 * Probably doess not contain sensitive data
 * 
-*
+##### Composite key
 ### 2NF - izing the 1NFized table
+
 ### 3NF - izing the 2NFized table
 ### And BCNF - izing 
 ### We also have 4NF and 5NF - *if you have time*
