@@ -25,6 +25,7 @@ the individual attribute containers should be holding an further unreducable val
 ### We also have 4NF and 5NF - *if you have time*
 #### 4NF - izing the 3NFized table
 #### 5NF - izing the 4NFized table
+[13]
 
 `note: I want to complete these sections but the tutorial videos which put on this were lost.` :sad:
 ![evolution](https://highlyscalable.files.wordpress.com/2012/02/overview2.png)
@@ -89,3 +90,4 @@ Access patterns -
 10. _http://www.ebaytechblog.com/2014/10/10/nosql-data-modeling/_
 11. _https://www.infoq.com/articles/unified-data-modeling-for-relational-and-nosql-databases_
 12. _https://stackoverflow.com/questions/1104624/what-is-the-difference-between-cassandra-and-couchdb?answertab=votes#tab-top_
+13. _https://www.guru99.com/database-normalization.html_
